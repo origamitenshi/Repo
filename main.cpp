@@ -2,7 +2,7 @@
 #include <iostream>
 
 using namespace std;
-
+//это учебная программа
 int main(){
 	int a, b;
 	cout << "Введите целые числа a и b:\n";
